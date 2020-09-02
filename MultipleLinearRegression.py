@@ -36,20 +36,3 @@ regressor.fit(X_train, Y_train)
 #Predicting the Test set results
 y_pred=regressor.predict(X_test)
 
-#===============================================================================
-#Building the optimal model using Backward elimination
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
